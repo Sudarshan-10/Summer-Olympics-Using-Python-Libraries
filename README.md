@@ -15,8 +15,8 @@ In this Assignment we will go through 8 main questions and they are as follows:
 7. Which event is most popular in terms on number of players? (Top 5 )
 8. Which sport is having most female Gold Medalists? (Top 5 )
 
-
-## Author:
+  For Those Questions which contain Top 5 in Question We have plot Graph that.
+## Author: 
 
   Name : Sudarshan Babasaheb Darekar
   
