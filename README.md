@@ -1,6 +1,7 @@
 ## Summer-Olympics-Using-Python-Libraries
 THIS IS A ASSIGNMENT ON OLYMPICS DATASET USING PANDAS AND MATPLOTLIB LIBRARY.
-#Description :
+
+##Description :
 In this Assignment we will go through 8 main questions and they are as follows:
 
 1. In how many cities Summer Olympics is held so far?
